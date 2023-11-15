@@ -3,7 +3,8 @@
 Welcome to AI Bites!
 
 AI Bites is a dedicated space where I delve into the fascinating world of Artificial Intelligence, with a particular focus on Natural Language Processing (NLP) and Computer Vision. Here, you'll find a series of blog posts that not only explain core AI concepts but also demonstrate their practical implementation through code snippets.
-What You'll Find Here
+
+What You'll Find Here:
 
 NLP Concepts: Dive into the intricacies of Natural Language Processing. From foundational theories to the latest advancements, each post is designed to demystify complex concepts and make them accessible.
 
